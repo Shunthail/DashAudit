@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.angular/
+__pycache__/
+*.pyc
+.venv/
+backend/data/
+.env
+.DS_Store
+coverage/
+
+.cache/
